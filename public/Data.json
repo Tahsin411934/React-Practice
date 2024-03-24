@@ -1,0 +1,69 @@
+[
+    {
+      "id": 1,
+      "image": "https://1853-abrar-fahim.imgbb.com/",
+      "jobType": "Software Engineer",
+      "jobSalary": "$80,000 - $100,000",
+      "location": "Remote",
+      "jobDescription": "We are looking for a skilled Software Engineer to join our team.",
+      "jobResponsibility": "Develop and maintain high-quality software products.",
+      "requiredEducation": "Bachelor's degree in Computer Science or related field.",
+      "experience": "3+ years of experience in software development."
+    },
+    {
+      "id": 2,
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngall.com%2Fgoogle-png%2Fdownload%2F42394&psig=AOvVaw2sYAmRIt4e3oMQ_Lu3vzts&ust=1711361684271000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIihxpzVjIUDFQAAAAAdAAAAABAJ",
+      "jobType": "Data Scientist",
+      "jobSalary": "$90,000 - $120,000",
+      "location": "Onsite",
+      "jobDescription": "We are seeking a talented Data Scientist to join our analytics team.",
+      "jobResponsibility": "Analyze and interpret complex data sets.",
+      "requiredEducation": "Master's degree in Statistics, Mathematics, or related field.",
+      "experience": "5+ years of experience in data analysis."
+    },
+    {
+      "id": 3,
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngall.com%2Fgoogle-png%2Fdownload%2F42394&psig=AOvVaw2sYAmRIt4e3oMQ_Lu3vzts&ust=1711361684271000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIihxpzVjIUDFQAAAAAdAAAAABAJ",
+      "jobType": "UI/UX Designer",
+      "jobSalary": "$70,000 - $90,000",
+      "location": "Remote",
+      "jobDescription": "We are looking for a creative UI/UX Designer to join our design team.",
+      "jobResponsibility": "Create intuitive and visually appealing user interfaces.",
+      "requiredEducation": "Bachelor's degree in Design or related field.",
+      "experience": "3+ years of experience in UI/UX design."
+    },
+    {
+      "id": 4,
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngall.com%2Fgoogle-png%2Fdownload%2F42394&psig=AOvVaw2sYAmRIt4e3oMQ_Lu3vzts&ust=1711361684271000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIihxpzVjIUDFQAAAAAdAAAAABAJ",
+      "jobType": "Marketing Manager",
+      "jobSalary": "$80,000 - $100,000",
+      "location": "Onsite",
+      "jobDescription": "We are seeking a dynamic Marketing Manager to lead our marketing efforts.",
+      "jobResponsibility": "Develop and implement strategic marketing plans.",
+      "requiredEducation": "Bachelor's degree in Marketing or related field.",
+      "experience": "5+ years of experience in marketing."
+    },
+    {
+      "id": 5,
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngall.com%2Fgoogle-png%2Fdownload%2F42394&psig=AOvVaw2sYAmRIt4e3oMQ_Lu3vzts&ust=1711361684271000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIihxpzVjIUDFQAAAAAdAAAAABAJ",
+      "jobType": "Accountant",
+      "jobSalary": "$60,000 - $80,000",
+      "location": "Remote",
+      "jobDescription": "We are seeking a detail-oriented Accountant to join our finance team.",
+      "jobResponsibility": "Manage financial transactions and reporting.",
+      "requiredEducation": "Bachelor's degree in Accounting or related field.",
+      "experience": "2+ years of experience in accounting."
+    },
+    {
+      "id": 6,
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngall.com%2Fgoogle-png%2Fdownload%2F42394&psig=AOvVaw2sYAmRIt4e3oMQ_Lu3vzts&ust=1711361684271000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIihxpzVjIUDFQAAAAAdAAAAABAJ",
+      "jobType": "Human Resources Manager",
+      "jobSalary": "$70,000 - $90,000",
+      "location": "Onsite",
+      "jobDescription": "We are looking for an experienced Human Resources Manager to oversee our HR department.",
+      "jobResponsibility": "Develop HR strategies and policies.",
+      "requiredEducation": "Bachelor's degree in Human Resources or related field.",
+      "experience": "4+ years of experience in HR management."
+    }
+  ]
+  
